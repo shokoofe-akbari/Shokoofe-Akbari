@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=C471ED&center=true&vCenter=true&width=650&lines=PhD+Candidate+in+Mathematical+Biology;Computational+Neuroscience+Researcher;Simulating+Synapses%2C+One+Vesicle+at+a+Time;Exploring+LLMs+%26+Digital+Twin+Modeling;Turning+Neurons+into+Numbers)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shokoofe-akbari&color=c471ed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=shokoofe-akbari&color=c471ed&style=for-the-badge&label=PROFILE+VISITORS)
 
 </div>
 
