@@ -19,11 +19,22 @@ jobs:
       - name: Create assets directory
         run: mkdir -p assets
 
+      - name: Check trophy token
+        shell: bash
+        env:
+          TROPHY_PAT: ${{ secrets.TROPHY_PAT }}
+        run: |
+          if [ -z "$TROPHY_PAT" ]; then
+            echo "::error::Repository secret TROPHY_PAT is missing."
+            echo "Create it in Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+
       - name: Generate trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          username: Shokoofe-Akbari
+          token: ${{ secrets.TROPHY_PAT }}
+          username: shokoofe-akbari
           file: assets/github-trophies.svg
           theme: onedark
           max-cols: "7"
