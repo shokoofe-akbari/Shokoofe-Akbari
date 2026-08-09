@@ -91,7 +91,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=Shokoofe-Akbari&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="./assets/github-trophies.svg" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
