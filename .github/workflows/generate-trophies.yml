@@ -1,0 +1,33 @@
+permissions:
+  contents: write
+
+jobs:
+  generate-trophies:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Shokoofe-Akbari
+          output_path: assets/github-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated trophy
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-trophies.svg
+          if git diff --cached --quiet; then
+            echo "No trophy changes to commit."
+          else
+            git commit -m "chore: update GitHub trophies"
+            git push
+          fi
