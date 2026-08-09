@@ -1,0 +1,39 @@
+name: GitHub Profile Summary Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "25 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate private-aware GitHub analytics
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Check analytics token
+        shell: bash
+        env:
+          SUMMARY_GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        run: |
+          if [ -z "$SUMMARY_GITHUB_TOKEN" ]; then
+            echo "::error::Repository secret SUMMARY_GITHUB_TOKEN is missing."
+            exit 1
+          fi
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: ${{ github.event.repository.default_branch }}
+          UTC_OFFSET: "3.5"
+          EXCLUDE: ""
+          AUTO_PUSH: true
