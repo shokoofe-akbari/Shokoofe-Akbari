@@ -80,9 +80,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shokoofe-Akbari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Shokoofe-Akbari&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shokoofe-Akbari&theme=tokyonight&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shokoofe-Akbari&theme=tokyonight&hide_border=true&layout=compact)<br/>
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Shokoofe-Akbari&theme=tokyonight&hide_border=true&layout=compact)<br/>
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shokoofe-Akbari&theme=tokyo-night&hide_border=true)
 
 </div>
@@ -91,7 +91,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shokoofe-Akbari&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=Shokoofe-Akbari&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
