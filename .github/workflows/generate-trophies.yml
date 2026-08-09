@@ -1,3 +1,10 @@
+name: Generate GitHub Trophies
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 1"
+
 permissions:
   contents: write
 
