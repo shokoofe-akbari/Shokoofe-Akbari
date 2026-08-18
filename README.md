@@ -154,8 +154,11 @@ Python-based analysis of **vesicle movement-size distributions** and simulation-
     <td align="center" valign="middle">
       <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="220" alt="GitHub stats"/>
     </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shokoofe-Akbari&theme=tokyonight&hide_border=true&hide_current_streak=true&card_width=420" height="220" alt="Total contributions and longest streak"/>
+<img
+  src="https://streak-stats.demolab.com?user=Shokoofe-Akbari&theme=tokyonight&hide_border=true&card_width=420"
+  height="220"
+  alt="GitHub streak statistics"
+/>
     </td>
   </tr>
 </table>
