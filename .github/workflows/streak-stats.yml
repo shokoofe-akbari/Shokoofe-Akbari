@@ -1,0 +1,61 @@
+name: Generate GitHub Streak
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 4 * * *"
+  push:
+    branches:
+      - master
+    paths:
+      - ".github/workflows/streak-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-streak
+  cancel-in-progress: true
+
+jobs:
+  generate-streak:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Check analytics token
+        shell: bash
+        env:
+          SUMMARY_GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        run: |
+          if [ -z "$SUMMARY_GITHUB_TOKEN" ]; then
+            echo "::error::Repository secret SUMMARY_GITHUB_TOKEN is missing."
+            exit 1
+          fi
+
+      - name: Generate local streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&disable_animations=true&card_width=495
+          path: assets/github-streak.svg
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+
+      - name: Verify generated SVG
+        run: test -s assets/github-streak.svg
+
+      - name: Commit updated streak card
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-streak.svg
+          if git diff --cached --quiet; then
+            echo "No streak changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update GitHub streak"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin HEAD:"${GITHUB_REF_NAME}"
