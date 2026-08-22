@@ -149,13 +149,7 @@ Python-based analysis of vesicle movement-size distributions and simulation-deri
 </tr>
 </table>
 
-<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shokoofe-Akbari&theme=tokyonight&hide_border=true" width="60%" alt="GitHub streak"/>
-
-<br/><br/>
-
-<sub>All cards render live — no manual updates needed.</sub>
 
 </div>
 
