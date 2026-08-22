@@ -107,7 +107,7 @@ Python-based analysis of vesicle movement-size distributions and simulation-deri
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shokoofe-Akbari&theme=tokyonight&name=Shokoofeh%20Akbari&animation=rgb-soft" width="85%" alt="Profile details"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shokoofe-Akbari&theme=tokyo-night&hide_border=true" width="85%" alt="Activity graph"/>
 
 <br/><br/>
 
@@ -122,10 +122,6 @@ Python-based analysis of vesicle movement-size distributions and simulation-deri
 
 <br clear="both"/>
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shokoofe-Akbari&theme=tokyo-night&hide_border=true" width="85%" alt="Activity graph"/>
-
-<br/><br/>
 
 <sub>All cards render live — no manual updates needed.</sub>
 
@@ -165,8 +161,7 @@ Python-based analysis of vesicle movement-size distributions and simulation-deri
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shokoofeh.akbari_com/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bugcharm_com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shokoofeh-akbari) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sh_Abkari1997) [![BugCharm Channel](https://img.shields.io/badge/BugCharm-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BugCharm_Com) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@BugCharm_Com) [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/l1PDSEbAe)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shokoofeh.akbari_com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shokoofeh-akbari) [![BugCharm](https://img.shields.io/badge/BugCharm-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bugcharm_com/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sh_Abkari1997) [![BugCharm Channel](https://img.shields.io/badge/BugCharm-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BugCharm_Com) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@BugCharm_Com) [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/l1PDSEbAe)
 
 </div>
 
