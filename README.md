@@ -12,6 +12,8 @@
 
 # 🔬 About Me
 
+<img align="right" width="120" src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif"/>
+
 - 🎓 PhD Candidate in **Mathematical Biology** at **Tarbiat Modares University**
 - 🧠 Specializing in **computational neuroscience**, with a focus on agent-based modeling of synaptic vesicles
 - ⚡ Building advanced simulations of synaptic transmission, Ca²⁺-driven processes, and vesicle dynamics
@@ -20,6 +22,8 @@
 - 🛠️ Core toolkit: C++/C, Python, R, MATLAB, NetLogo, Maple
 - 🌱 Creating computational-biology content as **BugCharm** across Instagram, YouTube & Telegram
 - 📫 Reach me at [roz1996akbari@gmail.com](mailto:roz1996akbari@gmail.com)
+
+<br clear="both"/>
 
 # 🚀 Featured Research & Projects
 
@@ -95,11 +99,37 @@ Python-based analysis of vesicle movement-size distributions and simulation-deri
 
 </div>
 
-**🛠️ Research Development & Communication**
+**🎨 Design & Content Creation**
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="90"/>
+</div>
+
+## ⚙️ Tools & Workflow
+
+<div align="center">
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="90"/>
+</div>
+
+## 📄 Research & Documentation
+
+<div align="center">
+
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+📝 Dissertation source: [**Disseration_Latex**](https://github.com/shokoofe-akbari/Disseration_Latex)
 
 </div>
 
@@ -111,27 +141,21 @@ Python-based analysis of vesicle movement-size distributions and simulation-deri
 
 <br/><br/>
 
-<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shokoofe-Akbari&theme=tokyonight&animation=draw" alt="Repos per language"/>
-<img align="right" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shokoofe-Akbari&theme=tokyonight&animation=draw" alt="Most commit language"/>
+<table>
+<tr>
+<td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shokoofe-Akbari&theme=tokyonight&animation=draw" width="100%" alt="Repos per language"/></td>
+<td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shokoofe-Akbari&theme=tokyonight&animation=draw" width="100%" alt="Most commit language"/></td>
+<td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shokoofe-Akbari&theme=tokyonight&animation=sequence" width="100%" alt="GitHub stats"/></td>
+</tr>
+</table>
 
-<br clear="both"/>
 <br/>
 
-<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shokoofe-Akbari&theme=tokyonight&animation=sequence" alt="GitHub stats"/>
-<img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shokoofe-Akbari&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shokoofe-Akbari&theme=tokyonight&hide_border=true" width="60%" alt="GitHub streak"/>
 
-<br clear="both"/>
-<br/>
+<br/><br/>
 
 <sub>All cards render live — no manual updates needed.</sub>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shokoofe-Akbari&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -150,6 +174,8 @@ Python-based analysis of vesicle movement-size distributions and simulation-deri
 # 💡 Research Philosophy
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" width="90"/>
 
 *"Turning biological complexity into computational experiments — and computational experiments into scientific insight."*
 
