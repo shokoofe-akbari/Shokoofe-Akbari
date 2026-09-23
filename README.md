@@ -14,7 +14,7 @@
 
 <img align="right" width="120" src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif"/>
 
-- 🎓 PhD Candidate in **Mathematical Biology** at **Tarbiat Modares University**
+- 🎓 PhD Candidate in **Biological Mathematics ** at **Tarbiat Modares University**
 - 🧠 Specializing in **computational neuroscience**, with a focus on agent-based modeling of synaptic vesicles
 - ⚡ Building advanced simulations of synaptic transmission, Ca²⁺-driven processes, and vesicle dynamics
 - 🧬 Developing multiscale foundations for **digital twins** of neural and synaptic systems
