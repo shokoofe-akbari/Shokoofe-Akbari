@@ -1,188 +1,461 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=230&section=header&text=Shokoofeh%20Akbari&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Computational%20Neuroscience%20%E2%80%A2%20Synaptic%20Simulation%20%E2%80%A2%20Digital%20Twins&descAlignY=55&descAlign=50" width="100%" alt="Shokoofeh Akbari"/>
+# SHOKOOFEH AKBARI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1000&color=C471ED&center=true&vCenter=true&width=650&lines=PhD+Candidate+in+Mathematical+Biology;Computational+Neuroscience+Researcher;Simulating+Synapses%2C+One+Vesicle+at+a+Time;Exploring+LLMs+%26+Digital+Twin+Modeling;Turning+Neurons+into+Numbers)](https://git.io/typing-svg)
+### Applied Mathematics × Modeling × Simulation × Scientific AI
 
-<strong>I build mechanistic models that turn synaptic dynamics into testable computational experiments.</strong>
+**I build computational models to understand complex systems —  
+from synaptic vesicles to intelligent and industrial systems.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=shokoofe-akbari&color=c471ed&style=for-the-badge&label=PROFILE+VIEWS)
+`MATHEMATICS → MODELS → SIMULATION → DATA → AI → DIGITAL TWINS`
+
+<br>
+
+[![Website](https://img.shields.io/badge/BugCharm-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://bugcharm.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shokoofeh-akbari)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shokoofeh.akbari_com)
+[![YouTube](https://img.shields.io/badge/YouTube-111111?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@BugCharm_Com)
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Sh_Akbari1997)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:roz1996akbari@gmail.com)
 
 </div>
 
-# 🔬 About Me
+---
 
-<img align="right" width="120" src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif"/>
+```text
+shokoofeh@modeling-lab:~$ ./whoami
 
-- 🎓 PhD Candidate in **Biological Mathematics ** at **Tarbiat Modares University**
-- 🧠 Specializing in **computational neuroscience**, with a focus on agent-based modeling of synaptic vesicles
-- ⚡ Building advanced simulations of synaptic transmission, Ca²⁺-driven processes, and vesicle dynamics
-- 🧬 Developing multiscale foundations for **digital twins** of neural and synaptic systems
-- 🤖 Exploring how **Large Language Models (LLMs)** can accelerate scientific simulation, analysis, and discovery
-- 🛠️ Core toolkit: C++/C, Python, R, MATLAB, NetLogo, Maple
-- 🌱 Creating computational-biology content as **BugCharm** across Instagram, YouTube & Telegram
-- 📫 Reach me at [roz1996akbari@gmail.com](mailto:roz1996akbari@gmail.com)
+ROLE        Applied Mathematics PhD Candidate
+DOMAIN      Computational Science & Mathematical Modeling
+RESEARCH    Computational Neuroscience / Synaptic Dynamics
+METHOD      Agent-Based & Mechanistic Simulation
+BUILDING    Scientific Software / AI / Digital Twins
+INDUSTRY    Software Testing & Industrial Automation
+TEACHING    Programming / Linux / Git / Scientific Computing
+COMMUNITY   BugCharm + Applied Mathematics Scientific Association
 
-<br clear="both"/>
+STATUS      modeling reality...
+```
 
-# 🚀 Featured Research & Projects
+# ◈ What I Work On
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**🧪 Python-Simulation-SV**
+### 🧠 Research & Computational Science
 
-Simulation of Ca²⁺ influx, reaction-diffusion, and synaptic vesicle release inside a presynaptic terminal.
+My PhD research lies at the intersection of **applied mathematics, computational neuroscience, biophysical modeling, and scientific computing**.
 
-<sub>🔹 Synaptic Transmission &nbsp; 🔹 Ca²⁺ Dynamics</sub>
+I model the **synaptic vesicle cycle** and presynaptic organization using mechanistic and agent-based approaches.
 
-[**View Repository →**](https://github.com/shokoofe-akbari/Python-Simulation-SV)
+**Current scientific themes**
 
-</td>
-<td width="33%" valign="top">
-
-**📊 3DSimDataProcessor**
-
-Analysis and visualization tools for simulation outputs — step sizes, density maps, histograms, and trajectories.
-
-<sub>🔹 3D Visualization &nbsp; 🔹 Data Analysis</sub>
-
-[**View Repository →**](https://github.com/shokoofe-akbari/3DSimDataProcessor)
+`Synaptic Vesicles`  
+`Agent-Based Modeling`  
+`Brownian Dynamics`  
+`Reaction–Diffusion`  
+`Ca²⁺ Dynamics`  
+`LLPS & Synaptic Organization`  
+`Scientific Simulation`  
+`Neural Digital Twins`
 
 </td>
-<td width="33%" valign="top">
 
-**📈 Movement-Size Analysis**
+<td width="50%" valign="top">
 
-Python-based analysis of vesicle movement-size distributions and simulation-derived movement behavior.
+### ⚙️ Industrial & Software Systems
 
-<sub>🔹 Statistics &nbsp; 🔹 Vesicle Dynamics</sub>
+Alongside academic research, I work with **industrial automation software and software testing** at Farineh Fanavar.
 
-[**View Repository →**](https://github.com/shokoofe-akbari/movment_size_hist)
+My current industrial exposure includes systems and concepts around:
+
+`HMI / SCADA`  
+`Industrial Automation`  
+`Process Control`  
+`Software Testing / QA`  
+`OPC-UA`  
+`IEC-104`  
+`MQTT`  
+`DCS / PLC Systems`
+
+This gives me a second perspective on modeling:
+
+**not only simulating systems — but working with systems that interact with the physical world.**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Teaching & Academic Community
+
+I teach technical and scientific computing topics through university programs, workshops, bootcamps, and independent education.
+
+Topics include:
+
+`Python` · `Linux` · `Git & GitHub` · `R` · `SQL`  
+`Scientific Computing` · `Research Tools` · `AI`
+
+I also serve as **Secretary of the Applied Mathematics Student Scientific Association at Tarbiat Modares University**, where I contribute to technical education, scientific events, and academic community building.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐞 BugCharm & Technical Content
+
+I am building **BugCharm** as a technical education and project-based learning ecosystem.
+
+The work spans:
+
+`Technical Education`  
+`Courses & Bootcamps`  
+`Developer Tools`  
+`Scientific Content`  
+`YouTube`  
+`Open Educational Resources`  
+`Student Projects`  
+`Technical Community Building`
+
+The goal is to connect **learning → building → real projects**.
+
+→ [bugcharm.com](https://bugcharm.com)
 
 </td>
 </tr>
 </table>
 
-## 🌱 Currently Exploring
+---
 
-<div align="center">
+# ◈ Computational Synapse Lab
 
-![Hugging Face](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) ![Digital Twin Modeling](https://img.shields.io/badge/Digital%20Twin%20Modeling-8A2BE2?style=for-the-badge)
+```text
+                 Ca²⁺
+              •  •  •
+                 ↓
 
-</div>
+      ┌──────────────────────────┐
+      │    ○       ●       ○     │
+      │       ●        ○         │
+      │  ○        ●          ○   │
+      │                          │
+      │        ACTIVE ZONE       │
+      └────────────┬─────────────┘
+                   │
+                 fusion
+                   ↓
+               release
+```
 
-# 💻 Scientific Tech Stack
+### Current Research System
 
-**⚙️ Scientific Computing & Simulation**
+```text
+MODEL        Presynaptic Terminal
+AGENTS       Synaptic Vesicles
+DYNAMICS     Diffusion / Forces / Interactions
+SIGNALS      Ca²⁺-dependent processes
+OUTPUT       Trajectories / MSD / Density / Release
+ANALYSIS     Statistical + Spatial + Dynamical
+DIRECTION    Multiscale Neural Digital Twins
+```
 
-<div align="center">
+> **I simulate what cannot be directly observed.**
 
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![NetLogo](https://img.shields.io/badge/NetLogo-C6402A?style=for-the-badge) ![Maple](https://img.shields.io/badge/Maple-CC0000?style=for-the-badge)
+---
 
-</div>
+# ◈ Research Pipeline
 
-**📊 Data Analysis & Scientific Visualization**
+```text
+BIOLOGICAL QUESTION
+        │
+        ▼
+MATHEMATICAL MODEL
+        │
+        ▼
+AGENT-BASED / MECHANISTIC SIMULATION
+        │
+        ▼
+COMPUTATIONAL EXPERIMENTS
+        │
+        ▼
+TRAJECTORIES + DISTRIBUTIONS + SPATIAL DATA
+        │
+        ▼
+STATISTICAL / BIOPHYSICAL ANALYSIS
+        │
+        ▼
+SCIENTIFIC INTERPRETATION
+        │
+        ▼
+EXPERIMENTAL VALIDATION
+```
 
-<div align="center">
+---
 
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-</div>
-
-**🤖 Machine Learning & AI**
-
-<div align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-</div>
-
-**🎨 Design & Content Creation**
-
-<div align="center">
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="90"/>
-</div>
-
-## ⚙️ Tools & Workflow
-
-<div align="center">
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="90"/>
-</div>
-
-## 📄 Research & Documentation
-
-<div align="center">
-
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-📝 Dissertation source: [**Disseration_Latex**](https://github.com/shokoofe-akbari/Disseration_Latex)
-
-</div>
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shokoofe-Akbari&theme=tokyo-night&hide_border=true" width="85%" alt="Activity graph"/>
-
-<br/><br/>
+# ◈ Selected Research & Engineering Projects
 
 <table>
 <tr>
-<td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shokoofe-Akbari&theme=tokyonight&animation=draw" width="100%" alt="Repos per language"/></td>
-<td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shokoofe-Akbari&theme=tokyonight&animation=draw" width="100%" alt="Most commit language"/></td>
-<td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shokoofe-Akbari&theme=tokyonight&animation=sequence" width="100%" alt="GitHub stats"/></td>
+<td width="50%" valign="top">
+
+### 🧠 Vesicle-Recycling
+
+My main research simulation environment for studying synaptic-vesicle dynamics and mechanistic presynaptic organization.
+
+**Focus**
+
+`Agent-Based Modeling`  
+`C++`  
+`CMake`  
+`Numerical Simulation`  
+`Research QC`  
+`Reproducible Experiments`
+
+[Explore Repository →](https://github.com/shokoofe-akbari/Vesicle-Recycling)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 Python-Simulation-SV
+
+Simulation of **Ca²⁺ influx, reaction-diffusion processes, and synaptic vesicle release** inside a presynaptic terminal.
+
+**Focus**
+
+`Computational Neuroscience`  
+`Synaptic Transmission`  
+`Ca²⁺ Dynamics`
+
+[Explore Repository →](https://github.com/shokoofe-akbari/Python-Simulation-SV)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 3DSimDataProcessor
+
+Scientific analysis and visualization tools for simulation outputs.
+
+**Includes**
+
+`3D Trajectories`  
+`Step Sizes`  
+`Density Maps`  
+`Histograms`  
+`Scientific Visualization`
+
+[Explore Repository →](https://github.com/shokoofe-akbari/3DSimDataProcessor)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Movement Dynamics Analysis
+
+Python-based analysis of movement-size distributions and simulation-derived vesicle behavior.
+
+**Focus**
+
+`Statistics`  
+`Movement Dynamics`  
+`Simulation Analysis`
+
+[Explore Repository →](https://github.com/shokoofe-akbari/movment_size_hist)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Academic LaTeX & Documentation
+
+I also work on tooling and documentation for academic research workflows, including thesis preparation and reproducible scientific documents.
+
+`LaTeX` · `Markdown` · `GitHub` · `Research Documentation`
+
+[Explore Dissertation Repository →](https://github.com/shokoofe-akbari/Disseration_Latex)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Git State Lab
+
+An interactive educational project for understanding Git states and version-control concepts.
+
+`Git` · `GitHub` · `Interactive Learning` · `Developer Education`
+
+[Launch Git State Lab →](https://git-portal-lab-github.vercel.app/)
+
+</td>
 </tr>
 </table>
 
+---
 
+# ◈ Scientific & Technical Stack
 
-</div>
+| Domain | Technologies |
+|---|---|
+| **Modeling & Simulation** | C++ · Python · MATLAB · NetLogo · R · Maple |
+| **Scientific Computing** | NumPy · SciPy · Pandas · Jupyter |
+| **Visualization** | Matplotlib · Plotly · 3D Scientific Visualization |
+| **Machine Learning** | PyTorch · scikit-learn · TensorFlow |
+| **Scientific AI** | LLMs · Hugging Face · AI-assisted scientific workflows |
+| **Engineering Workflow** | Git · GitHub · CMake · Linux · WSL · PowerShell |
+| **Research Documentation** | LaTeX · Overleaf · Markdown |
+| **Industrial Systems** | HMI/SCADA · OPC-UA · IEC-104 · MQTT |
+| **Content & Design** | Photoshop · InDesign · Technical Content Production |
 
-## 🐍 Contribution Snake
+---
+
+# ◈ Beyond One Discipline
+
+```text
+                         ┌─ Computational Neuroscience
+                         │
+APPLIED MATHEMATICS ─────┼─ Scientific Simulation
+                         │
+                         ├─ Artificial Intelligence
+                         │
+                         ├─ Industrial Systems
+                         │
+                         ├─ Digital Twins
+                         │
+                         └─ Scientific Education
+```
+
+I am particularly interested in problems where **mathematics becomes executable**:
+
+equations become models,  
+models become simulations,  
+simulations generate data,  
+data becomes insight,  
+and insight becomes a better representation of reality.
+
+---
+
+# ◈ Teaching & Knowledge Sharing
+
+My technical education work spans several layers:
+
+**Programming**
+
+`Python` · `C++` · `R`
+
+**Engineering Tools**
+
+`Linux` · `Git` · `GitHub`
+
+**Data**
+
+`SQL` · `Scientific Data Analysis`
+
+**Research**
+
+`Scientific Computing` · `Research Workflows` · `LaTeX`
+
+**AI**
+
+`Machine Learning` · `LLMs` · `AI Tools for Researchers`
+
+Much of this work is developed through **BugCharm** and university scientific programs.
+
+---
+
+# ◈ Building in Public
+
+I create technical content around:
+
+`Mathematical Modeling`
+
+`Simulation`
+
+`Computational Neuroscience`
+
+`Artificial Intelligence`
+
+`Digital Twins`
+
+`Scientific Programming`
+
+`Linux & Developer Tools`
+
+`Research & Scientific Computing`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shokoofe-akbari/shokoofe-akbari/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shokoofe-akbari/shokoofe-akbari/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shokoofe-akbari/shokoofe-akbari/output/github-contribution-grid-snake.svg" width="85%">
-</picture>
+[![Personal Instagram](https://img.shields.io/badge/Personal_Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shokoofeh.akbari_com)
+[![BugCharm YouTube](https://img.shields.io/badge/BugCharm_YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BugCharm_Com)
+[![BugCharm Telegram](https://img.shields.io/badge/BugCharm_Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BugCharm_Com)
+[![BugCharm Instagram](https://img.shields.io/badge/BugCharm_Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bugcharm_com/)
 
 </div>
 
-# 💡 Research Philosophy
+---
+
+# ◈ GitHub Activity
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" width="90"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shokoofe-akbari&theme=github-compact&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 
-*"Turning biological complexity into computational experiments — and computational experiments into scientific insight."*
+<br>
 
-**Biology × Mathematics × Simulation × AI**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shokoofe-akbari&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shokoofe-akbari&theme=github_dark" height="160"/>
 
 </div>
 
-# 🌐 Connect With Me
+---
+
+# ◈ Research Philosophy
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shokoofeh.akbari_com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shokoofeh-akbari) [![BugCharm](https://img.shields.io/badge/BugCharm-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bugcharm_com/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sh_Abkari1997) [![BugCharm Channel](https://img.shields.io/badge/BugCharm-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BugCharm_Com) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@BugCharm_Com) [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/l1PDSEbAe)
+### Understanding reality by modeling it.
+
+**Mathematics × Biology × Simulation × Data × AI**
+
+*"Turning complex systems into computational experiments —  
+and computational experiments into scientific insight."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f64f59,50:c471ed,100:12c2e9&height=110&section=footer" width="100%"/>
+---
+
+# ◈ Let's Connect
+
+I am interested in conversations and collaborations around:
+
+**Mathematical Modeling · Scientific Simulation · Computational Neuroscience · Scientific AI · Digital Twins · Scientific Software · Technical Education**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shokoofeh_Akbari-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shokoofeh-akbari)
+
+[![Email](https://img.shields.io/badge/Email-roz1996akbari%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roz1996akbari@gmail.com)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Sh_Akbari1997-111111?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sh_Akbari1997)
+[![Bale](https://img.shields.io/badge/Bale-shAkbari1997-111111?style=for-the-badge)](https://ble.ir/shAkbari1997)
+
+[![Instagram](https://img.shields.io/badge/Instagram-shokoofeh.akbari__com-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shokoofeh.akbari_com)
+[![Website](https://img.shields.io/badge/Web-bugcharm.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bugcharm.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>
+researching complex systems · building simulations · testing software · teaching technology
+</sub>
+
+</div>
