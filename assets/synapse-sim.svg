@@ -1,0 +1,308 @@
+<svg width="1280" height="820" viewBox="0 0 1280 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="820" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#12162B"/>
+      <stop offset="1" stop-color="#0A0E1A"/>
+    </linearGradient>
+
+    <linearGradient id="frameGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2B3154"/>
+      <stop offset="1" stop-color="#1A1F37"/>
+    </linearGradient>
+
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1E2440"/>
+      <stop offset="1" stop-color="#12182E"/>
+    </linearGradient>
+
+    <linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12172A"/>
+      <stop offset="1" stop-color="#0E1323"/>
+    </linearGradient>
+
+    <linearGradient id="membraneGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6B6FF6"/>
+      <stop offset="0.5" stop-color="#B55CFF"/>
+      <stop offset="1" stop-color="#52C7FF"/>
+    </linearGradient>
+
+    <radialGradient id="vesicleYellow" cx="50%" cy="40%" r="70%">
+      <stop offset="0" stop-color="#FFF4A6"/>
+      <stop offset="0.55" stop-color="#FFD84D"/>
+      <stop offset="1" stop-color="#FFB800"/>
+    </radialGradient>
+
+    <radialGradient id="vesiclePurple" cx="50%" cy="40%" r="70%">
+      <stop offset="0" stop-color="#E5D2FF"/>
+      <stop offset="0.6" stop-color="#B176FF"/>
+      <stop offset="1" stop-color="#7A4CFF"/>
+    </radialGradient>
+
+    <radialGradient id="caGrad" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#D7F5FF"/>
+      <stop offset="0.55" stop-color="#53D8FF"/>
+      <stop offset="1" stop-color="#0BB8FF"/>
+    </radialGradient>
+
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="tinyGlow" x="-120%" y="-120%" width="340%" height="340%">
+      <feGaussianBlur stdDeviation="2.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .title { font: 700 24px 'Segoe UI', Arial, sans-serif; fill: #F4F7FF; }
+      .subtitle { font: 500 13px 'Segoe UI', Arial, sans-serif; fill: #A7B1D8; }
+      .tab { font: 600 12px 'Segoe UI', Arial, sans-serif; fill: #C6D0F4; }
+      .mono { font: 500 17px 'JetBrains Mono', 'Fira Code', monospace; }
+      .monoSmall { font: 500 15px 'JetBrains Mono', 'Fira Code', monospace; }
+      .lineNo { fill: #596387; font: 500 15px 'JetBrains Mono', monospace; }
+      .comment { fill: #6E7CA6; }
+      .kw { fill: #FF8FD8; }
+      .type { fill: #69D2FF; }
+      .fn { fill: #FFD84D; }
+      .var { fill: #E7ECFF; }
+      .num { fill: #8FFFA3; }
+      .str { fill: #FDBA74; }
+      .op { fill: #C7D2FE; }
+      .term { fill: #B4C0E9; font: 500 15px 'JetBrains Mono', monospace; }
+      .hud { font: 600 12px 'JetBrains Mono', monospace; fill: #C9D5FF; letter-spacing: 0.5px; }
+      .hudValue { font: 700 14px 'JetBrains Mono', monospace; fill: #FFF4A6; }
+      .badge { font: 700 11px 'JetBrains Mono', monospace; fill: #131414; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="820" rx="28" fill="url(#bg)"/>
+
+  <!-- frame -->
+  <rect x="32" y="28" width="1216" height="764" rx="24" fill="url(#frameGrad)" stroke="#2A3358" stroke-width="2"/>
+
+  <!-- app header -->
+  <rect x="32" y="28" width="1216" height="56" rx="24" fill="url(#headerGrad)"/>
+  <rect x="32" y="60" width="1216" height="24" fill="url(#headerGrad)"/>
+
+  <circle cx="64" cy="56" r="7" fill="#FF6B6B"/>
+  <circle cx="88" cy="56" r="7" fill="#FFD166"/>
+  <circle cx="112" cy="56" r="7" fill="#2ED573"/>
+
+  <text x="148" y="60" class="title">synapse_sim.cpp</text>
+  <text x="148" y="78" class="subtitle">C++ vesicle / synapsin simulation environment — Shokoofeh Akbari</text>
+
+  <!-- tabs -->
+  <rect x="735" y="41" width="132" height="28" rx="8" fill="#202744" stroke="#333E6C"/>
+  <text x="751" y="59" class="tab">vesicle_sim.cpp</text>
+  <rect x="874" y="41" width="116" height="28" rx="8" fill="#171D33" stroke="#293153"/>
+  <text x="889" y="59" class="tab">synapsin.hpp</text>
+  <rect x="997" y="41" width="92" height="28" rx="8" fill="#171D33" stroke="#293153"/>
+  <text x="1012" y="59" class="tab">release.log</text>
+
+  <rect x="1118" y="40" width="102" height="30" rx="15" fill="#FFD84D"/>
+  <text x="1139" y="59" class="badge">BUGCHARM</text>
+
+  <!-- code panel -->
+  <rect x="54" y="102" width="520" height="472" rx="18" fill="url(#panelGrad)" stroke="#283153"/>
+
+  <!-- code lines -->
+  <g transform="translate(78 140)">
+    <text class="lineNo" x="0" y="0">1</text>
+    <text class="mono" x="36" y="0"><tspan class="comment">// computational neuroscience profile panel</tspan></text>
+
+    <text class="lineNo" x="0" y="34">2</text>
+    <text class="mono" x="36" y="34"><tspan class="kw">#include</tspan><tspan class="str"> "synapsin.hpp"</tspan></text>
+
+    <text class="lineNo" x="0" y="68">3</text>
+    <text class="mono" x="36" y="68"><tspan class="kw">#include</tspan><tspan class="str"> "vesicle_pool.hpp"</tspan></text>
+
+    <text class="lineNo" x="0" y="102">4</text>
+    <text class="mono" x="36" y="102"><tspan class="kw">using namespace</tspan><tspan class="var"> neuro::sim</tspan><tspan class="op">;</tspan></text>
+
+    <text class="lineNo" x="0" y="136">5</text>
+    <text class="mono" x="36" y="136"><tspan class="type">int</tspan><tspan class="var"> main</tspan><tspan class="op">() {</tspan></text>
+
+    <text class="lineNo" x="0" y="170">6</text>
+    <text class="mono" x="36" y="170"><tspan class="type">Researcher</tspan><tspan class="var"> me</tspan><tspan class="op">{</tspan><tspan class="str">"Shokoofeh Akbari"</tspan><tspan class="op">};</tspan></text>
+
+    <text class="lineNo" x="0" y="204">7</text>
+    <text class="mono" x="36" y="204"><tspan class="type">PresynapticTerminal</tspan><tspan class="var"> terminal</tspan><tspan class="op">;</tspan></text>
+
+    <text class="lineNo" x="0" y="238">8</text>
+    <text class="mono" x="36" y="238"><tspan class="var">terminal</tspan><tspan class="op">.</tspan><tspan class="fn">load_synapsin_cloud</tspan><tspan class="op">(</tspan><tspan class="num">true</tspan><tspan class="op">);</tspan></text>
+
+    <text class="lineNo" x="0" y="272">9</text>
+    <text class="mono" x="36" y="272"><tspan class="var">terminal</tspan><tspan class="op">.</tspan><tspan class="fn">spawn_vesicles</tspan><tspan class="op">(</tspan><tspan class="num">42</tspan><tspan class="op">);</tspan></text>
+
+    <text class="lineNo" x="0" y="306">10</text>
+    <text class="mono" x="36" y="306"><tspan class="type">Simulation</tspan><tspan class="var"> sim</tspan><tspan class="op">(</tspan><tspan class="var">terminal</tspan><tspan class="op">);</tspan></text>
+
+    <text class="lineNo" x="0" y="340">11</text>
+    <text class="mono" x="36" y="340"><tspan class="var">sim</tspan><tspan class="op">.</tspan><tspan class="fn">enable_calcium_influx</tspan><tspan class="op">(</tspan><tspan class="num">true</tspan><tspan class="op">);</tspan></text>
+
+    <text class="lineNo" x="0" y="374">12</text>
+    <text class="mono" x="36" y="374"><tspan class="var">sim</tspan><tspan class="op">.</tspan><tspan class="fn">set_release_mode</tspan><tspan class="op">(</tspan><tspan class="str">"active_zone"</tspan><tspan class="op">);</tspan></text>
+
+    <text class="lineNo" x="0" y="408">13</text>
+    <text class="mono" x="36" y="408"><tspan class="var">sim</tspan><tspan class="op">.</tspan><tspan class="fn">run</tspan><tspan class="op">();</tspan></text>
+
+    <text class="lineNo" x="0" y="442">14</text>
+    <text class="mono" x="36" y="442"><tspan class="kw">return</tspan><tspan class="num"> 0</tspan><tspan class="op">;</tspan></text>
+
+    <text class="lineNo" x="0" y="476">15</text>
+    <text class="mono" x="36" y="476"><tspan class="op">}</tspan></text>
+  </g>
+
+  <!-- vis panel -->
+  <rect x="594" y="102" width="634" height="472" rx="18" fill="url(#panelGrad)" stroke="#283153"/>
+
+  <!-- mini hud -->
+  <rect x="614" y="122" width="194" height="32" rx="8" fill="#191F36" stroke="#2B3357"/>
+  <text x="628" y="143" class="hud">SIMULATION STATUS:</text>
+  <text x="771" y="143" class="hudValue">RUNNING</text>
+
+  <rect x="822" y="122" width="190" height="32" rx="8" fill="#191F36" stroke="#2B3357"/>
+  <text x="836" y="143" class="hud">MODEL:</text>
+  <text x="890" y="143" class="hudValue">Synaptic Vesicle Cycle</text>
+
+  <rect x="1026" y="122" width="182" height="32" rx="8" fill="#191F36" stroke="#2B3357"/>
+  <text x="1040" y="143" class="hud">RESEARCHER:</text>
+  <text x="1136" y="143" class="hudValue">Shokoofeh</text>
+
+  <!-- membrane + terminal -->
+  <rect x="626" y="172" width="570" height="360" rx="20" fill="#0B1120" stroke="#1F2745"/>
+
+  <!-- terminal caption -->
+  <text x="648" y="198" class="subtitle">Presynaptic terminal • synapsin cloud • vesicle trafficking • active-zone release</text>
+
+  <!-- synapsin cloud -->
+  <g opacity="0.55">
+    <path d="M684 260 C730 220, 790 224, 836 252 S934 300, 980 256 S1064 214, 1116 242" stroke="#FFD84D" stroke-width="2.4" stroke-dasharray="5 7" filter="url(#tinyGlow)">
+      <animate attributeName="stroke-dashoffset" values="0;24" dur="3.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M668 298 C722 264, 784 278, 828 302 S930 340, 984 300 S1060 264, 1134 294" stroke="#FFB86C" stroke-width="2" stroke-dasharray="4 9" filter="url(#tinyGlow)">
+      <animate attributeName="stroke-dashoffset" values="0;20" dur="4.3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M700 336 C744 304, 800 316, 850 340 S934 372, 992 342 S1080 300, 1150 332" stroke="#C48CFF" stroke-width="1.8" stroke-dasharray="3 7" filter="url(#tinyGlow)">
+      <animate attributeName="stroke-dashoffset" values="0;18" dur="4.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- membrane / active zone -->
+  <path d="M648 454 C742 448, 818 448, 910 454 C978 458, 1058 458, 1172 454" stroke="url(#membraneGrad)" stroke-width="8" fill="none" filter="url(#softGlow)"/>
+  <rect x="874" y="445" width="74" height="18" rx="9" fill="#FF7BDC" opacity="0.9" filter="url(#tinyGlow)">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="2.1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="889" y="440" class="hud">ACTIVE ZONE</text>
+
+  <!-- vesicles -->
+  <g>
+    <circle cx="720" cy="258" r="20" fill="url(#vesicleYellow)" stroke="#FFE58A" stroke-width="2" filter="url(#tinyGlow)">
+      <animate attributeName="cy" values="258;252;258" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="720" y1="278" x2="708" y2="314" stroke="#FFD84D" stroke-dasharray="4 4" opacity="0.7"/>
+
+    <circle cx="782" cy="310" r="18" fill="url(#vesiclePurple)" stroke="#D0BCFF" stroke-width="2" filter="url(#tinyGlow)">
+      <animate attributeName="cx" values="782;790;782" dur="4.1s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="782" y1="328" x2="800" y2="354" stroke="#B176FF" stroke-dasharray="4 4" opacity="0.65"/>
+
+    <circle cx="860" cy="276" r="19" fill="url(#vesicleYellow)" stroke="#FFE58A" stroke-width="2" filter="url(#tinyGlow)">
+      <animate attributeName="cy" values="276;286;276" dur="3.9s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="940" cy="300" r="18" fill="url(#vesiclePurple)" stroke="#D0BCFF" stroke-width="2" filter="url(#tinyGlow)">
+      <animate attributeName="cx" values="940;932;940" dur="4.7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1015" cy="262" r="19" fill="url(#vesicleYellow)" stroke="#FFE58A" stroke-width="2" filter="url(#tinyGlow)">
+      <animate attributeName="cy" values="262;255;262" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1088" cy="320" r="18" fill="url(#vesiclePurple)" stroke="#D0BCFF" stroke-width="2" filter="url(#tinyGlow)">
+      <animate attributeName="cy" values="320;329;320" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- docked vesicles -->
+    <circle cx="845" cy="427" r="17" fill="url(#vesicleYellow)" stroke="#FFF2B3" stroke-width="2" filter="url(#softGlow)">
+      <animate attributeName="cy" values="427;421;427" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="918" cy="424" r="17" fill="url(#vesiclePurple)" stroke="#E9DDFF" stroke-width="2" filter="url(#softGlow)">
+      <animate attributeName="cy" values="424;418;424" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="990" cy="429" r="17" fill="url(#vesicleYellow)" stroke="#FFF2B3" stroke-width="2" filter="url(#softGlow)">
+      <animate attributeName="cy" values="429;423;429" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- calcium influx -->
+  <g>
+    <circle cx="894" cy="208" r="6" fill="url(#caGrad)" filter="url(#tinyGlow)">
+      <animate attributeName="cy" values="208;235;268;320;392" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="920" cy="214" r="5.5" fill="url(#caGrad)" filter="url(#tinyGlow)">
+      <animate attributeName="cy" values="214;242;278;336;398" dur="2.1s" begin="0.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0" dur="2.1s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="946" cy="210" r="5" fill="url(#caGrad)" filter="url(#tinyGlow)">
+      <animate attributeName="cy" values="210;236;268;312;386" dur="2.9s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0" dur="2.9s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="956" y="224" class="hud">Ca²⁺ influx</text>
+  </g>
+
+  <!-- release particles -->
+  <g>
+    <circle cx="918" cy="474" r="4.4" fill="#FFD84D" filter="url(#tinyGlow)">
+      <animate attributeName="cy" values="452;470;488;510;536" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0.7;0" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="928" cy="478" r="4" fill="#FFC857" filter="url(#tinyGlow)">
+      <animate attributeName="cy" values="454;473;494;522;548" dur="1.9s" begin="0.25s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0.7;0" dur="1.9s" begin="0.25s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="907" cy="480" r="3.8" fill="#FFB86C" filter="url(#tinyGlow)">
+      <animate attributeName="cy" values="456;476;502;526;552" dur="1.7s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0.65;0" dur="1.7s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="946" y="515" class="hud">release event</text>
+  </g>
+
+  <!-- panel labels -->
+  <rect x="646" y="486" width="180" height="28" rx="8" fill="#161C32" stroke="#2B3357"/>
+  <text x="661" y="505" class="hud">SYNAPSIN STATE:</text>
+  <text x="782" y="505" class="hudValue">CLUSTERED</text>
+
+  <rect x="846" y="486" width="170" height="28" rx="8" fill="#161C32" stroke="#2B3357"/>
+  <text x="861" y="505" class="hud">VESICLES:</text>
+  <text x="944" y="505" class="hudValue">42</text>
+
+  <rect x="1030" y="486" width="155" height="28" rx="8" fill="#161C32" stroke="#2B3357"/>
+  <text x="1044" y="505" class="hud">MODE:</text>
+  <text x="1103" y="505" class="hudValue">LIVE</text>
+
+  <!-- bottom terminal -->
+  <rect x="54" y="594" width="1174" height="176" rx="18" fill="url(#panelGrad)" stroke="#283153"/>
+  <text x="78" y="626" class="term" fill="#8FFFA3">shokoofeh@lab:~$ ./vesicle_sim --profile shokoofeh --mode live</text>
+  <text x="78" y="655" class="term" fill="#B4C0E9">[info] researcher          : Shokoofeh Akbari</text>
+  <text x="78" y="682" class="term" fill="#B4C0E9">[info] system              : presynaptic terminal</text>
+  <text x="78" y="709" class="term" fill="#B4C0E9">[info] modules             : synapsin | vesicles | calcium | release</text>
+  <text x="78" y="736" class="term" fill="#B4C0E9">[info] focus               : computational neuroscience • agent-based modeling</text>
+  <text x="78" y="763" class="term" fill="#FFD84D">[ok] status                : simulation running • output streaming...</text>
+
+  <!-- subtle cursor -->
+  <rect x="706" y="749" width="10" height="18" rx="2" fill="#FFD84D">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
