@@ -1,84 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:FF69B4,50:00C2FF,75:7B68EE,100:FFB6C1&height=220&section=header&text=Shokoofeh%20Akbari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computational%20Scientist%20%7C%20Builder%20%7C%20Teacher%20%7C%20BugCharm&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD21E,35:C471ED,70:12C2E9,100:F64F59&height=240&section=header&text=Shokoofeh%20Akbari&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Computational%20Neuroscience%20%E2%80%A2%20Scientific%20Simulation%20%E2%80%A2%20BugCharm&descAlignY=56&descAlign=50" width="100%" alt="Shokoofeh Akbari"/>
 
-# Hey there, I'm Shokoofeh 🐈‍⬛✨
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=FFD21E&center=true&vCenter=true&width=850&lines=PhD+Candidate+in+Applied+Mathematics;Computational+Neuroscience+Researcher;Simulating+Synapses%2C+One+Vesicle+at+a+Time;Building+BugCharm+with+Love;Teaching+Python%2C+Linux%2C+Git+%26+Scientific+Computing;Exploring+AI%2C+LLMs+%26+Digital+Twin+Modeling)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F78CC6&center=true&vCenter=true&width=850&lines=Applied+Mathematics+PhD+Candidate;Computational+Neuroscience+%26+Scientific+Simulation;Teaching+Python+%7C+Linux+%7C+Git;Building+BugCharm;Exploring+AI%2C+Digital+Twins+%26+Industrial+Systems" alt="Typing SVG" />
+<strong>I build mechanistic models, teach technology, create technical content, and turn curious ideas into real projects ✨</strong>
 
-**I love turning ideas into models, models into simulations, and simulations into insight.**  
-**Also yes — I like building, teaching, exploring, and making things beautiful 🌷**
+<br>
 
-<p>
-  <a href="mailto:roz1996akbari@gmail.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shokoofeh-akbari"><img src="https://img.shields.io/badge/LinkedIn-7b68ee?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/Sh_Akbari1997"><img src="https://img.shields.io/badge/Telegram-00c2ff?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.instagram.com/shokoofeh.akbari_com"><img src="https://img.shields.io/badge/Instagram-ff8fab?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@BugCharm_Com"><img src="https://img.shields.io/badge/YouTube-bd93f9?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://bugcharm.com"><img src="https://img.shields.io/badge/BugCharm-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=shokoofe-akbari&color=FFD21E&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br><br>
+
+[![Email](https://img.shields.io/badge/Email-FFB300?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roz1996akbari@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shokoofeh-akbari)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sh_Akbari1997)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shokoofeh.akbari_com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BugCharm_Com)
+[![BugCharm](https://img.shields.io/badge/BugCharm-FFD21E?style=for-the-badge&logo=googlechrome&logoColor=111111)](https://bugcharm.com/)
 
 </div>
 
 ---
 
-## 🌌 My Universe
+# 🔬 About Me
 
-<table>
-<tr>
-<td align="center" width="25%">
-  <h3>🧠 Research</h3>
-  Computational Neuroscience<br>
-  Synaptic Vesicles<br>
-  Mechanistic Modeling<br>
-  Scientific Simulation
-</td>
-<td align="center" width="25%">
-  <h3>⚙️ Industry</h3>
-  Industrial Software<br>
-  HMI / SCADA<br>
-  QA & Testing<br>
-  Automation Systems
-</td>
-<td align="center" width="25%">
-  <h3>🎓 Teaching</h3>
-  Python<br>
-  Linux<br>
-  Git & GitHub<br>
-  Scientific Computing
-</td>
-<td align="center" width="25%">
-  <h3>🐞 BugCharm</h3>
-  Technical Education<br>
-  Content Creation<br>
-  Community Building<br>
-  Project-Based Learning
-</td>
-</tr>
-</table>
+<img align="right" width="120" src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif"/>
+
+- 🎓 PhD Candidate in **Applied Mathematics** at **Tarbiat Modares University**
+- 🧠 Working in **computational neuroscience**, especially **agent-based modeling** of synaptic vesicles
+- ⚡ Building simulations of **synaptic transmission**, **Ca²⁺-driven processes**, and vesicle dynamics
+- 🧬 Interested in **digital twins**, multiscale modeling, and executable scientific ideas
+- 🤖 Exploring how **AI / LLMs** can support simulation, analysis, and scientific workflows
+- 🛠️ I work across **research, software, teaching, content creation, and technical community-building**
+- 🌻 Building **BugCharm** as a yellow, energetic, project-based learning ecosystem
+- 📫 Reach me at [roz1996akbari@gmail.com](mailto:roz1996akbari@gmail.com)
+
+<br clear="both"/>
 
 ---
 
-## ✨ What I'm doing right now
+# 🧪 Simulation Console
 
-- 🧪 Simulating synaptic vesicle behavior in presynaptic terminals
-- 📊 Analyzing movement, density, and release-related data
-- ⚙️ Learning industrial automation concepts and software systems
-- 🎓 Teaching Python, Linux, Git, and research-oriented skills
-- 🐞 Building **BugCharm** as a learning ecosystem
-- 🤖 Exploring AI, LLMs, and Digital Twin ideas
-
----
-
-## 🐈‍⬛ About Me
+<div align="center">
 
 ```bash
-shokoofeh@blackcat-lab:~$ whoami
+shokoofeh@simulation-lab:~$ ./run_profile --mode live
 
-Name        : Shokoofeh Akbari
-Role        : Applied Mathematics PhD Candidate
-Main Focus  : Modeling complex systems
-Research    : Computational Neuroscience
-Loves       : Simulation, AI, teaching, building, creative tech
-Energy      : curious + active + always learning
-Mission     : turn complexity into something understandable
+[ identity ]  Shokoofeh Akbari
+[ role     ]  Applied Mathematics PhD Candidate
+[ focus    ]  Computational Neuroscience
+[ research ]  Synaptic Vesicles • Ca²⁺ Dynamics • Mechanistic Modeling
+[ builder  ]  BugCharm • Education • Scientific Software • AI
+[ industry ]  HMI/SCADA • QA • Industrial Automation
+[ mood     ]  curious • active • energetic • loves the work ✨
+
+loading modules...
+  ✓ research
+  ✓ simulation
+  ✓ data analysis
+  ✓ teaching
+  ✓ content creation
+  ✓ bugcharm
+  ✓ digital twins
+  ✓ AI exploration
+
+status: RUNNING
+theme : yellow + playful + science
+output: turning ideas into experiments...
