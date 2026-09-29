@@ -1,227 +1,191 @@
+<!-- Shokoofeh's lab: refined synaptic-vesicle artwork + a lively, research-led profile. -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=230&section=header&text=Shokoofeh%20Akbari&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Computational%20Neuroscience%20%E2%80%A2%20Synaptic%20Simulation%20%E2%80%A2%20Digital%20Twins&descAlignY=55&descAlign=50" width="100%" alt="Shokoofeh Akbari"/>
+# Hey, I'm Shokoofeh! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1000&color=C471ED&center=true&vCenter=true&width=650&lines=PhD+Candidate+in+Mathematical+Biology;Computational+Neuroscience+Researcher;Simulating+Synapses%2C+One+Vesicle+at+a+Time;Exploring+LLMs+%26+Digital+Twin+Modeling;Turning+Neurons+into+Numbers)](https://git.io/typing-svg)
+### 🧠 Applied mathematician · 💻 Scientific programmer · 🚀 Educator & builder
 
-<strong>I build mechanistic models that turn synaptic dynamics into testable computational experiments.</strong>
+**PhD Candidate in Applied Mathematics @ Tarbiat Modares University**
 
-![Profile Views](https://komarev.com/ghpvc/?username=shokoofe-akbari&color=c471ed&style=for-the-badge&label=PROFILE+VIEWS)
+*A busy mind, a love for mechanisms, and a very specific question about that axis label.*
 
-</div>
+[My world](#my-world) · [Research](#research-mode) · [Projects](#things-i-build) · [My process](#how-i-work) · [Connect](#say-hello)
 
-# 🔬 About Me
+[🧑‍💼 LinkedIn](https://www.linkedin.com/in/shokoofeh-akbari) · [📫 Email](mailto:roz1996akbari@gmail.com) · [🐞 BugCharm](https://bugcharm.com/) · [🌙 Instagram](https://www.instagram.com/shokoofeh.akbari_com)
 
-<img align="right" width="120" src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif"/>
+<br />
 
-- 🎓 PhD Candidate in **Biological Mathematics** at **Tarbiat Modares University**
-- 🧠 Specializing in **computational neuroscience**, with a focus on agent-based modeling of synaptic vesicles
-- ⚡ Building advanced simulations of synaptic transmission, Ca²⁺-driven processes, and vesicle dynamics
-- 🧬 Developing multiscale foundations for **digital twins** of neural and synaptic systems
-- 🤖 Exploring how **Large Language Models (LLMs)** can accelerate scientific simulation, analysis, and discovery
-- 🛠️ Core toolkit: C++/C, Python, R, MATLAB, NetLogo, Maple
-- 🌱 Creating computational-biology content as **BugCharm** across Instagram, YouTube & Telegram
-- 📫 Reach me at [roz1996akbari@gmail.com](mailto:roz1996akbari@gmail.com)
-
-<br clear="both"/>
-
-# 🧫 Synaptic Simulation Environment
-
-<div align="center">
-
-<img src="./assets/synapse-sim.svg" width="100%" alt="C++ style synaptic vesicle and synapsin simulation environment"/>
-
-</div>
-
-<div align="center">
-<sub>
-A terminal/editor-style simulation panel inspired by developer environments, adapted to my own world:
-<b>synaptic vesicles • synapsin organization • Ca²⁺ dynamics • active-zone release • computational neuroscience</b>.
-</sub>
-</div>
-
-# 🚀 Featured Research & Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🧪 Python-Simulation-SV**
-
-Simulation of Ca²⁺ influx, reaction-diffusion, and synaptic vesicle release inside a presynaptic terminal.
-
-<sub>🔹 Synaptic Transmission &nbsp; 🔹 Ca²⁺ Dynamics</sub>
-
-[**View Repository →**](https://github.com/shokoofe-akbari/Python-Simulation-SV)
-
-</td>
-<td width="33%" valign="top">
-
-**📊 3DSimDataProcessor**
-
-Analysis and visualization tools for simulation outputs — step sizes, density maps, histograms, and trajectories.
-
-<sub>🔹 3D Visualization &nbsp; 🔹 Data Analysis</sub>
-
-[**View Repository →**](https://github.com/shokoofe-akbari/3DSimDataProcessor)
-
-</td>
-<td width="33%" valign="top">
-
-**📈 Movement-Size Analysis**
-
-Python-based analysis of vesicle movement-size distributions and simulation-derived movement behavior.
-
-<sub>🔹 Statistics &nbsp; 🔹 Vesicle Dynamics</sub>
-
-[**View Repository →**](https://github.com/shokoofe-akbari/movment_size_hist)
-
-</td>
-</tr>
-</table>
-
-## 🌱 Currently Exploring
-
-<div align="center">
-
-![Hugging Face](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![Digital Twin Modeling](https://img.shields.io/badge/Digital%20Twin%20Modeling-8A2BE2?style=for-the-badge)
-
-</div>
-
-# 💻 Scientific Tech Stack
-
-**⚙️ Scientific Computing & Simulation**
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![NetLogo](https://img.shields.io/badge/NetLogo-C6402A?style=for-the-badge)
-![Maple](https://img.shields.io/badge/Maple-CC0000?style=for-the-badge)
-
-</div>
-
-**📊 Data Analysis & Scientific Visualization**
-
-<div align="center">
-
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-</div>
-
-**🤖 Machine Learning & AI**
-
-<div align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-</div>
-
-**🎨 Design & Content Creation**
-
-<div align="center">
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="90"/>
-</div>
-
-## ⚙️ Tools & Workflow
-
-<div align="center">
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="90"/>
-</div>
-
-## 📄 Research & Documentation
-
-<div align="center">
-
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-📝 Dissertation source: [**Disseration_Latex**](https://github.com/shokoofe-akbari/Disseration_Latex)
-
-</div>
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shokoofe-Akbari&theme=tokyo-night&hide_border=true" width="85%" alt="Activity graph"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shokoofe-Akbari&theme=tokyonight&animation=draw" width="100%" alt="Repos per language"/></td>
-<td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shokoofe-Akbari&theme=tokyonight&animation=draw" width="100%" alt="Most commit language"/></td>
-<td width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shokoofe-Akbari&theme=tokyonight&animation=sequence" width="100%" alt="GitHub stats"/></td>
-</tr>
-</table>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shokoofe-akbari/shokoofe-akbari/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shokoofe-akbari/shokoofe-akbari/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shokoofe-akbari/shokoofe-akbari/output/github-contribution-grid-snake.svg" width="85%">
+  <source media="(max-width: 600px)" srcset="./assets/synapse-sim-mobile.svg" />
+  <img src="./assets/synapse-sim.svg" width="100%" alt="My animated synaptic vesicle lab: a C++ model sketch, gold synaptic vesicles, purple synapsin, and the presynaptic active zone" />
 </picture>
+
+<sub>An animated illustration of my research world — code, motion, and geometry are conceptual, not simulation results.</sub><br />
+[🔎 Open the lab in full size](./assets/synapse-sim.svg)
+
+<br />
+
+**I turn biological mechanisms into computational experiments — then ask one more question.**
+
 </div>
 
-# 💡 Research Philosophy
+## My world
+
+Hi! I'm **Shokoofeh Akbari**, a **PhD Candidate in Applied Mathematics** working where mathematical biology, computational neuroscience, and scientific programming meet.
+
+My main research obsession is the **synaptic vesicle cycle**: how tiny biological agents move, interact, organize, and give rise to behavior we can study through models. I work with **agent-based modeling, stochastic simulation, and scientific computing**, mainly in **C++ and Python**.
+
+Around that core, there is usually a workshop to design, an AI idea to test, a workflow to automate, a piece of content to create, or a mathematical explanation to refine. I enjoy connecting the pieces. 🧩
+
+> **Curiosity keeps the tabs open. Attention to detail makes the work useful.**
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/brain-workbench-mobile.svg" />
+  <img src="./assets/brain-workbench.svg" width="100%" alt="Shokoofeh's workbench: research, build, teach, learn, create, and write — many projects connected by curiosity and attention to detail" />
+</picture>
+
+## Research mode
+
+### 🔬 Small vesicles. Big mathematical questions.
+
+My doctoral research focuses on mechanistic models of **synaptic-vesicle motion and organization**, including **synapsin-mediated interactions**. **SimulationSV** is my doctoral research codebase, currently under research development.
+
+The questions I keep coming back to:
+
+- **🧠 Mechanisms:** how do stochastic motion, interactions, and spatial constraints shape vesicle behavior?
+- **⚙️ Numerics:** how do timestep choices and constraint handling affect the quantities we measure?
+- **📊 Evidence:** which patterns survive numerical checks, and what scientific conclusions do they support?
+
+My research connects **mathematical assumptions → simulation behavior → observable quantities → careful interpretation**. The public projects below show parts of the surrounding engineering and analysis work.
+
+**Research keywords:** `Agent-Based Models` · `Brownian Dynamics` · `Computational Neuroscience` · `Mechanistic Modeling` · `Numerical Validation`
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/vesicle-cycle-mobile.svg" />
+  <img src="./assets/vesicle-cycle.svg" width="100%" alt="Three animated views of the synaptic vesicle cycle: motion and synapsin-associated organization, calcium-triggered exocytosis, and recycling" />
+</picture>
+
+<sub>A simplified biological context: my current research focus is motion and organization. The full cycle shown here does not imply that every process is implemented in SimulationSV. Recycling pathways and timing are schematic.</sub>
+
+## Things I build
+
+### 📐 TMU Thesis Template — making the document behave
+
+[**TMU-Thesis-Template**](https://github.com/shokoofe-akbari/TMU-Thesis-Template) is a maintained LaTeX system for MSc and PhD theses: Persian typesetting, mathematical environments, bibliography options, build scripts, CI, and versioned releases.
+
+**My part:** technical maintenance and extension, while preserving the original authors' credit and third-party notices.
+
+**The details I care about:** theorem environments, bibliography behavior, build reliability, and instructions that students can actually follow.
+
+`LaTeX` · `XeLaTeX` · `GitHub Actions` · `Documentation`
+
+[📂 Source](https://github.com/shokoofe-akbari/TMU-Thesis-Template) · [📦 Releases](https://github.com/shokoofe-akbari/TMU-Thesis-Template/releases) · [✅ Build history](https://github.com/shokoofe-akbari/TMU-Thesis-Template/actions/workflows/latex.yml)
+
+### 🧪 Git State Lab — let the mental model click
+
+[**Git State Lab**](https://github.com/shokoofe-akbari/git-portal-lab-github) turns Git into an interactive learning experience: file states, graph scenarios, merge/rebase concepts, quizzes, and command sequences.
+
+Built around the questions that come up in my **Git & GitHub workshop**. Because watching a file move from working directory to staging to commit makes the explanation come alive. 💡
+
+`TypeScript` · `React` · `Vite` · `Interactive Education`
+
+[🚀 Try the lab](https://git-portal-lab-github.vercel.app/) · [📂 Source](https://github.com/shokoofe-akbari/git-portal-lab-github) · [📚 Workshop resources](https://github.com/shokoofe-akbari/GitAndGitHubWorkshop)
+
+### 📊 3D Simulation Data Processor — coordinates with a story
+
+[**3DSimDataProcessor**](https://github.com/shokoofe-akbari/3DSimDataProcessor) contains Python scripts for particle trajectories, step-size distributions, density maps, correlations, and scientific plots. An early public tool from my simulation-analysis work.
+
+This is where the question changes from **“where did the particles go?”** to **“what does that movement tell us?”**
+
+`Python` · `NumPy` · `SciPy` · `Matplotlib` · `Seaborn`
+
+[📂 Explore the code](https://github.com/shokoofe-akbari/3DSimDataProcessor)
+
+### 🎒 Also on the workbench
+
+- [**Git & GitHub Workshop**](https://github.com/shokoofe-akbari/GitAndGitHubWorkshop) — a cheat sheet, Persian contribution and licensing guides, README guidance, and a reusable GitHub Actions prompt. Teaching real collaboration, one practical question at a time.
+- [**Wealth Scenario Simulator**](https://github.com/shokoofe-akbari/wealth-app) — an educational React interface for compound growth, scenario assumptions, and uncertainty. A side quest in making mathematical models explorable.
+- [**Mathematical modeling notes**](https://github.com/shokoofe-akbari/MyArticles) — LaTeX sources on reaction–diffusion modeling and cellular dynamics. Ideas deserve clear equations and readable pages. ✍️
+
+## How I work
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/research-pipeline-mobile.svg" />
+  <img src="./assets/research-pipeline.svg" width="100%" alt="My scientific workflow: model, simulate, validate, interpret, and communicate" />
+</picture>
+
+**Stochastic simulations. Deliberate decisions.**
+
+I make assumptions explicit, design computational experiments, and connect conclusions to inspectable evidence. Numerical stability, observable convergence, and biological interpretation each need their own checks. AI helps me explore and document ideas while the reasoning stays accountable.
+
+### 🔎 Little things that get my attention
+
+- units that stay consistent from the equations to the plots;
+- an axis label that says exactly what was measured;
+- configurations, seeds, and sources that make a result traceable;
+- a README whose quick start includes all the steps;
+- clear diagrams, consistent typography, and links that work;
+- a claim whose wording matches the evidence behind it.
+
+<sub>Yes, I am the person who will notice that one label. 😄</sub>
+
+## The toolbox
+
+**💻 My daily anchors**<br />
+`C++` · `Python` · `Git` · `LaTeX`
+
+**📊 Scientific sidekicks**<br />
+`NumPy` · `SciPy` · `pandas` · `Matplotlib` · `Seaborn` · `Plotly` · `Jupyter`
+
+**🛠️ Things that keep the work moving**<br />
+`GitHub Actions` · `Markdown` · `React` · `TypeScript`
+
+**🤖 My AI & automation playground**<br />
+`LLM workflows` · `Hugging Face` · `n8n` · `Prompt Design`
+
+<details>
+<summary><strong>📚 Open my learning shelf</strong></summary>
+
+I am deepening my LLM knowledge through coursework and practical exercises, exploring how AI can support scientific work, and connecting simulation research with the foundations of multiscale models and digital twins.
+
+[**Hands-On Large Language Models**](https://github.com/shokoofe-akbari/Hands-On-Large-Language-Models) and [**NotebookLM Prompt Styles**](https://github.com/shokoofe-akbari/notebooklm-prompt-styles) are part of my learning/reference shelf. These repositories are forks of other authors' work; credit belongs to their original creators.
+
+</details>
+
+## Beyond the terminal
+
+### 🐞 BugCharm · 🌙 Science content · 🎓 Academic community
+
+I am the **co-founder of BugCharm**, where I develop educational content and work on workflow automation. I teach **Git, GitHub, and artificial intelligence**, and enjoy building learning experiences that make complicated ideas click.
+
+I also serve as **Secretary of the Applied Mathematics Student Scientific Association at Tarbiat Modares University**, helping prepare scientific, educational, and cultural content for the university community.
+
+On [**Instagram**](https://www.instagram.com/shokoofeh.akbari_com), I create dark-themed educational content about **mathematical modeling, simulation, AI, and digital twins**. The same attention I bring to a numerical experiment also finds its way into a diagram, a slide, and an explanation. 🎨
+
+<details>
+<summary><strong>🗺️ The longer-term quests</strong></summary>
+
+- Advance my doctoral research and develop it into defensible research papers.
+- Write about mathematical modeling and translate Simon Serovajsky's *Mathematical Modeling*.
+- Keep improving my teaching and building practical courses.
+- Grow into specialized work in scientific software, simulation engineering, and AI for Science.
+
+</details>
+
+## Say hello
+
+Have a biological mechanism to model, a scientific tool to build, a research question to investigate, or a technical idea to teach? **Let's connect the dots.** 🧩
+
+I welcome **research collaborations and specialized opportunities** in computational modeling, simulation engineering, scientific software, **AI for Science**, and digital-twin research.
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" width="90"/>
+[**📫 Email**](mailto:roz1996akbari@gmail.com) · [**🧑‍💼 LinkedIn**](https://www.linkedin.com/in/shokoofeh-akbari) · [**🐞 BugCharm**](https://bugcharm.com/) · [**🌙 Instagram**](https://www.instagram.com/shokoofeh.akbari_com)
 
-*"Turning biological complexity into computational experiments — and computational experiments into scientific insight."*
+<br />
 
 **Biology × Mathematics × Simulation × AI**
 
-</div>
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shokoofeh.akbari_com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shokoofeh-akbari)
-[![BugCharm](https://img.shields.io/badge/BugCharm-FFD21E?style=for-the-badge&logo=instagram&logoColor=111111)](https://www.instagram.com/bugcharm_com/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sh_Akbari1997)
-[![BugCharm Channel](https://img.shields.io/badge/BugCharm-FFD21E?style=for-the-badge&logo=telegram&logoColor=111111)](https://t.me/BugCharm_Com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@BugCharm_Com)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/l1PDSEbAe)
+<sub>A busy workbench. A curious mind. Details included. ✨</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f64f59,50:c471ed,100:12c2e9&height=110&section=footer" width="100%"/>

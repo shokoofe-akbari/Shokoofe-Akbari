@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="434" viewBox="0 0 1280 434" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Shokoofeh's workbench — many ideas, details included</title>
+  <desc id="desc">Six interconnected areas of work: research, programming, teaching, learning, content creation, and writing. This is a personal illustrated workspace, not a report of measured activity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="434" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1020"/><stop offset="1" stop-color="#14192F"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1280" y2="434" gradientUnits="userSpaceOnUse"><stop stop-color="#FFD84D"/><stop offset="0.48" stop-color="#B176FF"/><stop offset="1" stop-color="#53D8FF"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#A7B1D8" stroke-opacity="0.04"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1278" height="432" rx="22" fill="url(#bg)" stroke="#2B3357" stroke-width="2"/>
+  <rect x="2" y="2" width="1276" height="430" rx="21" fill="url(#grid)"/>
+  <g font-family="Consolas, Menlo, monospace">
+    <circle cx="34" cy="34" r="5" fill="#FF6B6B"/><circle cx="53" cy="34" r="5" fill="#FFD166"/><circle cx="72" cy="34" r="5" fill="#2ED573"/>
+    <text x="99" y="39" fill="#F4F7FF" font-size="18" font-weight="700">shokoofeh.workspace</text>
+    <text x="1248" y="39" text-anchor="end" fill="#FFD84D" font-size="12" letter-spacing="1.2">MANY IDEAS // DETAILS INCLUDED</text>
+    <path d="M26 61H1254" stroke="#2B3357"/>
+    <g>
+      <rect x="26" y="82" width="396" height="137" rx="12" fill="#13192C" stroke="#554624"/>
+      <rect x="26" y="105" width="3" height="87" rx="1.5" fill="#FFD84D"/>
+      <text x="47" y="112" fill="#FFD84D" font-size="12" letter-spacing="1.1">01 / RESEARCH</text>
+      <text x="47" y="149" fill="#F4F7FF" font-size="22" font-weight="700">Tiny vesicles. Big questions.</text>
+      <text x="47" y="181" fill="#A7B1D8" font-size="13">Mechanisms · models · numerical evidence</text>
+      <text x="395" y="204" text-anchor="end" fill="#FFD84D" font-size="10">KEEP ASKING WHY ↗</text>
+    </g>
+    <g>
+      <rect x="442" y="82" width="396" height="137" rx="12" fill="#111D2B" stroke="#284759"/>
+      <rect x="442" y="105" width="3" height="87" rx="1.5" fill="#53D8FF"/>
+      <text x="463" y="112" fill="#53D8FF" font-size="12" letter-spacing="1.1">02 / BUILD</text>
+      <text x="463" y="149" fill="#F4F7FF" font-size="22" font-weight="700">Ideas with source code.</text>
+      <text x="463" y="181" fill="#A7B1D8" font-size="13">C++ · Python · scientific tools</text>
+      <text x="811" y="204" text-anchor="end" fill="#53D8FF" font-size="10">MAKE IT INSPECTABLE ↗</text>
+    </g>
+    <g>
+      <rect x="858" y="82" width="396" height="137" rx="12" fill="#20182F" stroke="#4A355E"/>
+      <rect x="858" y="105" width="3" height="87" rx="1.5" fill="#B176FF"/>
+      <text x="879" y="112" fill="#C8A2FF" font-size="12" letter-spacing="1.1">03 / TEACH</text>
+      <text x="879" y="149" fill="#F4F7FF" font-size="22" font-weight="700">Make the concept click.</text>
+      <text x="879" y="181" fill="#A7B1D8" font-size="13">Git · GitHub · AI · practical learning</text>
+      <text x="1227" y="204" text-anchor="end" fill="#C8A2FF" font-size="10">EXPLAIN THE WHY ↗</text>
+    </g>
+    <g>
+      <rect x="26" y="237" width="396" height="137" rx="12" fill="#182820" stroke="#345845"/>
+      <rect x="26" y="260" width="3" height="87" rx="1.5" fill="#8FFFA3"/>
+      <text x="47" y="267" fill="#8FFFA3" font-size="12" letter-spacing="1.1">04 / LEARN &amp; AUTOMATE</text>
+      <text x="47" y="304" fill="#F4F7FF" font-size="22" font-weight="700">One more useful rabbit hole.</text>
+      <text x="47" y="336" fill="#A7B1D8" font-size="13">LLMs · n8n · scientific workflows</text>
+      <text x="395" y="359" text-anchor="end" fill="#8FFFA3" font-size="10">CONNECT ANOTHER DOT ↗</text>
+    </g>
+    <g>
+      <rect x="442" y="237" width="396" height="137" rx="12" fill="#2A192A" stroke="#5A3451"/>
+      <rect x="442" y="260" width="3" height="87" rx="1.5" fill="#FF8FD8"/>
+      <text x="463" y="267" fill="#FF8FD8" font-size="12" letter-spacing="1.1">05 / CREATE</text>
+      <text x="463" y="304" fill="#F4F7FF" font-size="22" font-weight="700">Science with a visual voice.</text>
+      <text x="463" y="336" fill="#A7B1D8" font-size="13">BugCharm · dark themes · clear stories</text>
+      <text x="811" y="359" text-anchor="end" fill="#FF8FD8" font-size="10">EVERY LABEL MATTERS ↗</text>
+    </g>
+    <g>
+      <rect x="858" y="237" width="396" height="137" rx="12" fill="#29211C" stroke="#5A4837"/>
+      <rect x="858" y="260" width="3" height="87" rx="1.5" fill="#FDBA74"/>
+      <text x="879" y="267" fill="#FDBA74" font-size="12" letter-spacing="1.1">06 / WRITE</text>
+      <text x="879" y="304" fill="#F4F7FF" font-size="22" font-weight="700">Give ideas a good page.</text>
+      <text x="879" y="336" fill="#A7B1D8" font-size="13">Models · LaTeX · manuscripts · book ideas</text>
+      <text x="1227" y="359" text-anchor="end" fill="#FDBA74" font-size="10">REFINE THE EXPLANATION ↗</text>
+    </g>
+    <text x="26" y="409" fill="#A7B1D8" font-size="12">Curiosity has a queue. Details have a checklist.</text>
+    <text x="1254" y="409" text-anchor="end" fill="#FFD84D" font-size="12">units → labels → links → claims</text>
+  </g>
+  <path d="M22 432H1258" stroke="url(#edge)" stroke-width="2"/>
+</svg>

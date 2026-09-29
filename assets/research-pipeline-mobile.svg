@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="482" viewBox="0 0 560 482" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">From mechanisms to understanding</title>
+  <desc id="desc">Five scientific workflow stages arranged vertically for mobile: model, simulate, validate, interpret, and communicate.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="560" y2="482" gradientUnits="userSpaceOnUse"><stop stop-color="#070B14"/><stop offset="1" stop-color="#10122A"/></linearGradient><linearGradient id="path" x1="65" y1="61" x2="65" y2="405" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#FF5C8A"/></linearGradient></defs>
+  <rect x="1" y="1" width="558" height="480" rx="20" fill="url(#bg)" stroke="#334155" stroke-width="2"/>
+  <path d="M65 61V405" stroke="url(#path)" stroke-width="3"/>
+  <g fill="#94A3B8"><path d="M65 113L59 104H71Z"/><path d="M65 199L59 190H71Z"/><path d="M65 285L59 276H71Z"/><path d="M65 371L59 362H71Z"/></g>
+  <g font-family="Consolas, Menlo, monospace">
+    <circle cx="65" cy="61" r="26" fill="#0B2531" stroke="#22D3EE" stroke-width="2"/><circle cx="65" cy="61" r="6" fill="#22D3EE"/>
+    <text x="116" y="49" fill="#67E8F9" font-size="18" font-weight="700" letter-spacing="1.5">MODEL</text><text x="116" y="72" fill="#CBD5E1" font-size="14">explicit mechanisms</text><text x="116" y="92" fill="#94A3B8" font-size="11">assumptions · scales · constraints</text>
+    <circle cx="65" cy="147" r="26" fill="#102238" stroke="#38BDF8" stroke-width="2"/><path d="M54 157L65 135L76 157Z" fill="#38BDF8"/>
+    <text x="116" y="135" fill="#7DD3FC" font-size="18" font-weight="700" letter-spacing="1.5">SIMULATE</text><text x="116" y="158" fill="#CBD5E1" font-size="14">controlled computational experiments</text><text x="116" y="178" fill="#94A3B8" font-size="11">trajectories · forces · events</text>
+    <circle cx="65" cy="233" r="26" fill="#20183B" stroke="#8B5CF6" stroke-width="2"/><path d="M53 233L62 242L79 221" stroke="#C4B5FD" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="116" y="221" fill="#C4B5FD" font-size="18" font-weight="700" letter-spacing="1.5">VALIDATE</text><text x="116" y="244" fill="#CBD5E1" font-size="14">numerical evidence</text><text x="116" y="264" fill="#94A3B8" font-size="11">stability · convergence · tests</text>
+    <circle cx="65" cy="319" r="26" fill="#2A1834" stroke="#C084FC" stroke-width="2"/><path d="M54 329C57 316 63 309 77 307C77 320 72 329 54 329Z" fill="#D8B4FE"/>
+    <text x="116" y="307" fill="#D8B4FE" font-size="18" font-weight="700" letter-spacing="1.5">INTERPRET</text><text x="116" y="330" fill="#CBD5E1" font-size="14">scientific meaning</text><text x="116" y="350" fill="#94A3B8" font-size="11">observables · limits · alternatives</text>
+    <circle cx="65" cy="405" r="26" fill="#321727" stroke="#FF5C8A" stroke-width="2"/><path d="M53 397H78V412H66L59 418V412H53Z" fill="#FDA4AF"/>
+    <text x="116" y="393" fill="#FDA4AF" font-size="18" font-weight="700" letter-spacing="1.5">COMMUNICATE</text><text x="116" y="416" fill="#CBD5E1" font-size="14">traceable claims</text><text x="116" y="436" fill="#94A3B8" font-size="11">code · figures · sources · decisions</text>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="902" viewBox="0 0 440 902" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Shokoofeh's workbench — mobile</title>
+  <desc id="desc">A colorful six-lane personal workspace for research, build, teach, learn and automate, create, and write. This is an illustration, not a measured activity report.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="440" y2="902" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1020"/><stop offset="1" stop-color="#14192F"/></linearGradient></defs>
+  <rect x="1" y="1" width="438" height="900" rx="20" fill="url(#bg)" stroke="#2B3357" stroke-width="2"/>
+  <g font-family="Consolas, Menlo, monospace">
+    <circle cx="27" cy="28" r="4.5" fill="#FF6B6B"/><circle cx="45" cy="28" r="4.5" fill="#FFD166"/><circle cx="63" cy="28" r="4.5" fill="#2ED573"/>
+    <text x="87" y="34" fill="#F4F7FF" font-size="21" font-weight="700">shokoofeh.workspace</text>
+    <text x="22" y="69" fill="#FFD84D" font-size="13" letter-spacing="0.7">MANY IDEAS // DETAILS INCLUDED</text>
+    <g>
+      <rect x="22" y="89" width="396" height="117" rx="11" fill="#13192C" stroke="#554624"/><rect x="22" y="109" width="3" height="77" rx="1.5" fill="#FFD84D"/>
+      <text x="40" y="115" fill="#FFD84D" font-size="13" letter-spacing="0.7">01 / RESEARCH</text>
+      <text x="40" y="148" fill="#F4F7FF" font-size="21" font-weight="700">Tiny vesicles. Big questions.</text>
+      <text x="40" y="177" fill="#A7B1D8" font-size="16">Mechanisms · models</text><text x="40" y="196" fill="#A7B1D8" font-size="16">Numerical evidence</text>
+    </g>
+    <g>
+      <rect x="22" y="218" width="396" height="97" rx="11" fill="#111D2B" stroke="#284759"/><rect x="22" y="237" width="3" height="59" rx="1.5" fill="#53D8FF"/>
+      <text x="40" y="244" fill="#53D8FF" font-size="13" letter-spacing="0.7">02 / BUILD</text><text x="40" y="277" fill="#F4F7FF" font-size="21" font-weight="700">Ideas with source code.</text><text x="40" y="302" fill="#A7B1D8" font-size="16">C++ · Python · scientific tools</text>
+    </g>
+    <g>
+      <rect x="22" y="327" width="396" height="117" rx="11" fill="#20182F" stroke="#4A355E"/><rect x="22" y="347" width="3" height="77" rx="1.5" fill="#B176FF"/>
+      <text x="40" y="353" fill="#C8A2FF" font-size="13" letter-spacing="0.7">03 / TEACH</text><text x="40" y="386" fill="#F4F7FF" font-size="21" font-weight="700">Make the concept click.</text><text x="40" y="415" fill="#A7B1D8" font-size="16">Git · GitHub · AI</text><text x="40" y="434" fill="#A7B1D8" font-size="16">Practical learning</text>
+    </g>
+    <g>
+      <rect x="22" y="456" width="396" height="117" rx="11" fill="#182820" stroke="#345845"/><rect x="22" y="476" width="3" height="77" rx="1.5" fill="#8FFFA3"/>
+      <text x="40" y="482" fill="#8FFFA3" font-size="13" letter-spacing="0.7">04 / LEARN &amp; AUTOMATE</text><text x="40" y="515" fill="#F4F7FF" font-size="21" font-weight="700">One more useful rabbit hole.</text><text x="40" y="544" fill="#A7B1D8" font-size="16">LLMs · n8n</text><text x="40" y="563" fill="#A7B1D8" font-size="16">Scientific workflows</text>
+    </g>
+    <g>
+      <rect x="22" y="585" width="396" height="117" rx="11" fill="#2A192A" stroke="#5A3451"/><rect x="22" y="605" width="3" height="77" rx="1.5" fill="#FF8FD8"/>
+      <text x="40" y="611" fill="#FF8FD8" font-size="13" letter-spacing="0.7">05 / CREATE</text><text x="40" y="644" fill="#F4F7FF" font-size="21" font-weight="700">Science with a visual voice.</text><text x="40" y="673" fill="#A7B1D8" font-size="16">BugCharm · dark themes</text><text x="40" y="692" fill="#A7B1D8" font-size="16">Clear stories</text>
+    </g>
+    <g>
+      <rect x="22" y="714" width="396" height="117" rx="11" fill="#29211C" stroke="#5A4837"/><rect x="22" y="734" width="3" height="77" rx="1.5" fill="#FDBA74"/>
+      <text x="40" y="740" fill="#FDBA74" font-size="13" letter-spacing="0.7">06 / WRITE</text><text x="40" y="773" fill="#F4F7FF" font-size="21" font-weight="700">Give ideas a good page.</text><text x="40" y="802" fill="#A7B1D8" font-size="16">Models · LaTeX · manuscripts</text><text x="40" y="821" fill="#A7B1D8" font-size="16">Book ideas</text>
+    </g>
+    <text x="22" y="860" fill="#A7B1D8" font-size="13">Curiosity has a queue.</text><text x="22" y="879" fill="#A7B1D8" font-size="13">Details have a checklist.</text><text x="418" y="879" text-anchor="end" fill="#FFD84D" font-size="12">Details included.</text>
+  </g>
+</svg>
