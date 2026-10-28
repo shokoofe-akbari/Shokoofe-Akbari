@@ -11,7 +11,7 @@
 
 [My world](#my-world) · [Research](#research-mode) · [Projects](#things-i-build) · [My process](#how-i-work) · [Connect](#say-hello)
 
-[🧑‍💼 LinkedIn](https://www.linkedin.com/in/shokoofeh-akbari) · [📫 Email](mailto:roz1996akbari@gmail.com) · [🐞 BugCharm](https://bugcharm.com/) · [🌙 Instagram](https://www.instagram.com/shokoofeh.akbari_com)
+[🧑‍💼 LinkedIn](https://www.linkedin.com/in/shokoofeh-akbari) · [📫 Email](mailto:roz1996akbari@gmail.com)  · [🌙 Instagram](https://www.instagram.com/shokoofeh.akbari_com)
 
 <br />
 
@@ -154,7 +154,7 @@ I am deepening my LLM knowledge through coursework and practical exercises, expl
 
 ## Beyond the terminal
 
-### 🐞 BugCharm · 🌙 Science content · 🎓 Academic community
+###  🌙 Science content · 🎓 Academic community
 
 I am the **co-founder of BugCharm**, where I develop educational content and work on workflow automation. I teach **Git, GitHub, and artificial intelligence**, and enjoy building learning experiences that make complicated ideas click.
 
@@ -180,7 +180,7 @@ I welcome **research collaborations and specialized opportunities** in computati
 
 <div align="center">
 
-[**📫 Email**](mailto:roz1996akbari@gmail.com) · [**🧑‍💼 LinkedIn**](https://www.linkedin.com/in/shokoofeh-akbari) · [**🐞 BugCharm**](https://bugcharm.com/) · [**🌙 Instagram**](https://www.instagram.com/shokoofeh.akbari_com)
+[**📫 Email**](mailto:roz1996akbari@gmail.com) · [**🧑‍💼 LinkedIn**](https://www.linkedin.com/in/shokoofeh-akbari)· [**🌙 Instagram**](https://www.instagram.com/shokoofeh.akbari_com)
 
 <br />
 
